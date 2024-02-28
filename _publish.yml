@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: ed966f70-2609-43df-9807-90ae6aeaf736
+      url: 'https://moonlit-duckanoo-f36bb4.netlify.app'
